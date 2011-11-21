@@ -1,0 +1,8 @@
+Outcome
+=======
+
+The first coding club went really well but it didn't quite go to plan. After everyone introduced themselves and said what they hoped to get out of the club we talked about the web and what happens when you load a url. The rather scrapy diagram I drew showing the distinction between front end and back end, either side of the web was really useful and I came back to it a few times during the club. I then broke down the front end into HTML, CSS and Javascript and described what the purpose of each was. We opened up a couple of web pages and took a look inside to see what HTML looks like. Then, after quite enough talking from me, we went on to actually make an html page. We didn't use jsfiddle in the end because on the spur of the moment I decided it would be nice for them to be able to easily take home their creation so we worked on files on their local machine.
+
+The only major difficulty we had was with text editors. Notepad was OK but everyone agreed that TextMate on my laptop looked much better and TextEdit on one of the other Macs proved very difficult. After asking for advice on twitter I've decided to ask everyone to install Sublime Text 2 before the next session. We didn't have any problems with browsers because we were only doing very simple markup but I have asked everyone to get firefox and firebug installed for next week.
+
+At the end of the session we had a vote on which direction to take our simple page in next week. Should we learn some CSS to make it look pretty or Javascript to make it do something. The consensus was CSS, so I better get my designer hat on for next week!
